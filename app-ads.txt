@@ -1,5 +1,6 @@
 # CAS.ai Updated Jan 31, 2024, support@cleveradssolutions.com
 #=== GoogleAds Sep 01, 2023
+google.com, pub-7824270689843825, DIRECT, f08c47fec0942fa0
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
 google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
@@ -11,6 +12,7 @@ google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
 #=== AudienceNetwork
+facebook.com, 136220182647375, DIRECT, c3e20eee3f780d68
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
 facebook.com, 1081332032712445, DIRECT, c3e20eee3f780d68
 #=== Pangle Dec 19, 2023
@@ -142,6 +144,7 @@ yeahmobi.com, 5135347, RESELLER
 yieldlab.net, 2172218, RESELLER
 zmaticoo.com, 5135347, RESELLER
 #=== AppLovin Nov 23, 2023
+applovin.com, 864ba9d49fdd405a65dc0bea5a1928ab, DIRECT
 applovin.com, 1b46f5e3cf2242caea5c383ca959e5dd, DIRECT
 applovin.com, 4d391c28b8c9b08646600303640192ea, DIRECT
 applovin.com, c0240449e33b7431936ee54233b9ffc9, DIRECT
